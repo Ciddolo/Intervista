@@ -16,3 +16,5 @@
 - Ruotare i cubi intorno al cilindro data una velocità.
 - Muovere il cilindro in modo da fargli fare un percorso nella stanza.
 - Far seguire il cilindro dalla camera dato un offset.
+
+### Build
