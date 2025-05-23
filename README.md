@@ -2,10 +2,10 @@
 
 ### Git
 
-- Eseguire un fork sulla repository.
 - Scaricare la repository in locale.
+- Creare un nuovo Branch.
 - Effettuare commit significativi e descrittivi per ogni obiettivo raggiunto.
-- Eseguire una pull request sulla repository.
+- Eseguire uno o più pull sul nuovo Branch.
 
 ### Unity
 
